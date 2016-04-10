@@ -1,0 +1,4 @@
+parser/umlparser/Constants.class
+parser/umlparser/UMLParser.class
+parser/umlparser/ClassIdentifier.class
+parser/umlparser/VisitorClass.class
